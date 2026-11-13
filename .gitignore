@@ -218,3 +218,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Confidential research inputs and run products
+# These rules assist Git staging; they do not protect browser uploads.
+data/
+outputs/
+*.npy
+*.npz
+*.pt
+*.pth
+*.tif
+*.tiff
+*.shp
+*.dbf
+*.shx
+*.prj
+*.gpkg
+*.geojson
+*.jsonl
+
