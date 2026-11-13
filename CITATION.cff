@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this implementation, cite this software. Manuscript publication details will be added when available."
+title: "Bounded geological residual fusion for hyperspectral copper prospectivity mapping"
+type: software
+version: 1.0.0
+date-released: 2026-11-10
+license: MIT
+repository-code: "https://github.com/longlonghu283-cpu/bounded-geological-residual-fusion"
+authors:
+  - family-names: Cao
+    given-names: Zilong
+  - family-names: Wang
+    given-names: Qing
+  - family-names: Wei
+    given-names: Wei
+  - family-names: Ma
+    given-names: Qinkang
+  - family-names: Liu
+    given-names: Xin
